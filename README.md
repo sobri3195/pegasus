@@ -20,7 +20,7 @@ All notable changes to this project will be documented in this [file](https://gi
 - [Offensive Security](https://www.offensive-security.com/) - Offensive Security
 
 ## License
-Pegasus made by Prof. Dr. dr. H. Muhammad Sobri Maulana, S.Kom, SpB(K), SpBTKV, PhD, MPH, CEH, OSCP, OSCE. [Contributors](https://github.com/sobri3195/pegasus/graphs/contributors). See the **License** file for more details.
+Pegasus made by Muhammad Sobri Maulana. [Contributors](https://github.com/sobri3195/pegasus/graphs/contributors). See the **License** file for more details.
 
 
 
